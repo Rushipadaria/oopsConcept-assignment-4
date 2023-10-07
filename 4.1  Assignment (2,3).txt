@@ -1,0 +1,36 @@
+Assignment oops concept
+
+.....MODULE: 4.1 (C++ Basic).....
+2.What is OOP? List OOP concepts 
+--> oops stand for object Oriented programing system. its is used for realistic world.
+list oop concepts:-
+there are 6 pilar:-
+1)object.
+2)class.
+3)inheritants.
+4)encapsulation.
+5)Abstraction.
+6)Polymorphism.
+
+3.What is the difference between OOP and POP? 
+---> pops stands for proccessor Oriented programing system.
+--oops
+1).Bottom-up approch.
+2).Inheritance property is used.
+3).It uses access specifier.
+4)Encapsultion is used to hide the data.
+5).Concept of virtual function.
+6).Object function are linked Through message passing.
+7). Adding new data and function is easy.
+8).java,c+
+--pops
+1). Top-down approach.
+2). Inheritance is not allowed.
+3). Its doesn't use access specifier.
+4). No data hiding.
+5). No virtual function.
+6). Parts of program are linked through parameter passing.
+7). Expanding new data and functions is not easy.
+8). No code reusability.
+9). Not suitable for solving big problems.
+10). COBOL, FORTRAN, PASCAL.
